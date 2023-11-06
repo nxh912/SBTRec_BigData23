@@ -1,8 +1,7 @@
-# SBTRec_BigData23
-# BTRec: BERT-based Trajectory Recommendation for Personalized Tours Personalized Tours
+# SBTREC - A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis
 
-## [RecTour 2023 : workshop on recommenders in tourism](https://workshops.ds-ifs.tuwien.ac.at/rectour23/)
-
+## [IEEE BigData 2023 : 9th Special Session on Intelligent Data Mining](https://bigdataieee.org/BigData2023/SpecialSession.html)
+   
 ### Ngai Lam Ho, Roy Ka-Wei Lee and Kwan Hui Lim 
 
 ### [Information Systems Technology and Design](https://istd.sutd.edu.sg/) (ISTD) 

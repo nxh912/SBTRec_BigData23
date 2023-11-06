@@ -1,4 +1,4 @@
-# SBTREC - A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis
+# 	SBtRec - A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis
 
 ## [IEEE BigData 2023 : 9th Special Session on Intelligent Data Mining](https://bigdataieee.org/BigData2023/SpecialSession.html)
    

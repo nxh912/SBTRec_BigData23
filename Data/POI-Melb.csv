@@ -1,0 +1,243 @@
+poiID;theme;subTheme;poiName;lat;long
+1;Transport;Railway Station;Flemington Bridge Railway Station;-37.788164589;144.939277838304
+2;Mixed Use;Retail/Office/Carpark;Council House 2 (CH2);-37.8142591432;144.966638432727
+3;Place Of Assembly;Library;The Melbourne Athenaeum Library;-37.8148855756;144.967291289941
+4;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Carlton Gardens South;-37.8060684577;144.971266479841
+5;Place of Worship;Church;St Francis Church;-37.8118847832;144.962422614541
+6;Place of Worship;Church;Wesley Church;-37.8101576447;144.968168215633
+7;Place of Worship;Church;St Augustines Church;-37.8169741359;144.954862000132
+8;Place of Worship;Church;St James Church;-37.8101281202;144.952468571683
+9;Place of Worship;Church;St Mary's Anglican Church;-37.8031663673;144.953761537074
+10;Place of Worship;Church;Romanian Orthodox;-37.8052307297;144.966986444597
+11;Place of Worship;Church;Welsh Presbyterian Church;-37.8104478768;144.959873260087
+12;Place of Worship;Church;Church of Christ;-37.8104524079;144.96388920294
+13;Place of Worship;Church;Scots Church;-37.8145687803;144.96855105335
+14;Place of Worship;Church;St Michael's Uniting Church;-37.8143851325;144.969174036096
+15;Place of Worship;Church;Greek Orthodox Church;-37.8088064668;144.978259089269
+16;Place of Worship;Church;St Peter's Eastern Hill;-37.8097086715;144.975259178609
+17;Place of Worship;Church;Lutheran Trinity Church;-37.8109757054;144.975729473552
+18;Place of Worship;Church;Holy Trinity;-37.8140667111;144.983197322289
+19;Place of Worship;Church;St Johns Lutheran Church;-37.8209399677;144.967121099857
+20;Place of Worship;Church;North Melbourne Uniting;-37.8035538471;144.947671538375
+21;Place of Worship;Church;Melbourne Unitarian Church;-37.8114487773;144.984664890999
+22;Place of Worship;Church;All Nations Uniting Church;-37.7959155304;144.968981110942
+23;Place of Worship;Church;Our Lady of Lebanon Church;-37.802576654;144.969334720932
+24;Place of Worship;Church;St Michaels;-37.7940512679;144.945399480629
+25;Place of Worship;Church;Ukranian Catholic Cathedral;-37.796308458;144.944313454028
+26;Place of Worship;Church;St Alban Anglican Church;-37.7942169478;144.94161451392
+27;Place of Worship;Church;Christ Church Kensington;-37.7932109481;144.92729572288
+28;Place of Worship;Church;Holy Rosary;-37.7948087414;144.928362125005
+29;Place of Worship;Church;Collins Street Baptist Church;-37.8147011905;144.968072486031
+30;Place of Worship;Church;St Thomas Aquinas Church;-37.8353076903;144.976809080472
+31;Place of Worship;Church;South Yarra Presbyterian Church;-37.8407473645;144.98562699348
+32;Place of Worship;Church;The Parish of Christ Church South Yarra;-37.8386270534;144.986009385387
+33;Health Services;Private Hospital;Melbourne Private Hospital;-37.798311131;144.95728837725
+34;Place of Worship;Synagogue;East Melbourne Synagogue;-37.8091137289;144.97422190954
+35;Community Use;Police Station;Victoria Police;-37.8164849024;144.966486801188
+36;Community Use;Police Station;Victoria Police;-37.8003121289;144.954697453742
+37;Community Use;Police Station;Victoria Police;-37.821977391;144.953398014034
+38;Community Use;Visitor Centre;Melbourne Visitor Booth;-37.8139525061;144.964425882562
+39;Leisure/Recreation;Major Sports & Recreation Facility;State Netball Hockey Centre;-37.7857860016;144.947580972027
+40;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);University Square;-37.8004107112;144.960398319302
+41;Transport;Transport Terminal;Port of Melbourne;-37.8137384363;144.91753432375
+42;Leisure/Recreation;Private Sports Club/Facility;Royal Park Golf Course;-37.7819171309;144.956309119368
+43;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Powlett Reserve;-37.8116929882;144.987275671763
+44;Community Use;Cemetery;Melbourne General Cemetery;-37.7891890024;144.965785979892
+45;Leisure/Recreation;Major Sports & Recreation Facility;Carlton Football Club;-37.784086438;144.961967841559
+46;Leisure/Recreation;Major Sports & Recreation Facility;Visy Park;-37.783430394;144.961982577553
+47;Retail;Retail;Queen Victoria Market;-37.8075002018;144.957158515056
+48;Education Centre;Primary Schools;Carlton Gardens Primary School;-37.8020953835;144.969406272035
+49;Education Centre;Primary Schools;Carlton Primary School;-37.7959079757;144.970147317976
+50;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Carlton Gardens North;-37.8017690847;144.971997551189
+51;Place Of Assembly;Art Gallery/Museum;Old Melbourne Gaol Crime & Justice Experience;-37.807764415;144.965463853978
+52;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Kings Domain;-37.8255239796;144.974107925144
+53;Education Centre;Secondary Schools;Melbourne Grammar School;-37.8342561019;144.976285045233
+54;Education Centre;School - Primary and Secondary Education;Wesley College;-37.8485201804;144.982227770988
+55;Place Of Assembly;Theatre Live;FairFax Studio;-37.8216684582;144.968836241692
+56;Place Of Assembly;Theatre Live;Playhouse;-37.8218124583;144.968337832721
+57;Place Of Assembly;Theatre Live;State Theatre;-37.821280635;144.968469643744
+58;Education Centre;Tertiary (University);University of Melbourne (VCA and Music);-37.8241137662;144.96933253996
+59;Place Of Assembly;Theatre Live;St Martins Youth Arts Centre;-37.8352429531;144.98114217385
+60;Leisure/Recreation;Major Sports & Recreation Facility;Flemington Racecourse;-37.7908082647;144.912142987372
+61;Transport;Railway Station;Southern Cross Railway Station;-37.8181633057;144.952944748845
+62;Place Of Assembly;Theatre Live;Princess Theatre;-37.8107257091;144.9723265962
+63;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Treasury Gardens;-37.8143993576;144.975952335785
+64;Education Centre;Secondary Schools;University High School;-37.7973136217;144.956034449946
+65;Community Use;Public Buildings;State Library Victoria;-37.8099852201;144.964330322397
+66;Place Of Assembly;Theatre Live;Regent Theatre;-37.8160014744;144.967916735261
+67;Mixed Use;Retail/Office;Treasury Reserve;-37.8129178793;144.975236759799
+68;Office;Office;Old Treasury Building;-37.8132371663;144.974423610255
+69;Health Services;Private Hospital;Epworth Freemasons Hospital : Medical Centre;-37.8093444587;144.982336768182
+70;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Batman Park;-37.821846095;144.956665812218
+71;Office;Office;Australian Red Cross;-37.7990921023;144.952635945774
+72;Community Use;Government Building;Melbourne Magistrates Court;-37.8136147672;144.956846193891
+73;Transport;Railway Station;Flagstaff Railway Station;-37.8122356515;144.956318211113
+74;Community Use;Public Buildings;Supreme Court;-37.8141494183;144.957894024264
+75;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Richmond Football Club;-37.8216740022;144.988156318781
+76;Leisure/Recreation;Major Sports & Recreation Facility;Melbourne Cricket Ground (MCG);-37.8194921618;144.983402879078
+77;Leisure/Recreation;Outdoor Recreation Facility (Zoo, Golf Course);Melbourne Zoo;-37.7844449254;144.951371205938
+78;Office;Office;Australian Broadcasting Corporation (ABC);-37.8238133237;144.966551401578
+79;Place Of Assembly;Function/Conference/Exhibition Centre;Melbourne Exhibition Centre;-37.8252455123;144.95435243249
+80;Place Of Assembly;Function/Conference/Exhibition Centre;Melbourne Convention Centre;-37.8249040485;144.952288281644
+81;Place Of Assembly;Art Gallery/Museum;Polly Woodside;-37.8242574266;144.953478052064
+82;Vacant Land;Vacant Land - Undeveloped Site;Melbourne International Karting Complex;-37.8310746381;144.913822928701
+83;Leisure/Recreation;Private Sports Club/Facility;Melbourne International Shooting Club;-37.829284493;144.913415802464
+84;Mixed Use;Retail/Office/Carpark;Southgate Arts and Leisure Precinct;-37.8202245787;144.965989052839
+85;Place Of Assembly;Art Gallery/Museum;Australian Centre for Contemporary Art;-37.8266045433;144.967252924593
+86;Place Of Assembly;Theatre Live;Malthouse Theatre;-37.8271768001;144.966936821789
+87;Place of Worship;Church;St Patricks Cathedral;-37.810114095;144.975901529712
+88;Place Of Assembly;Art Gallery/Museum;Victorian Arts Centre;-37.8219947336;144.968837288153
+89;Office;Office;Parliament House;-37.8112466554;144.97372641185
+90;Community Use;Public Buildings;Melbourne Town Hall;-37.8150754791;144.966542722283
+91;Office;Office;Former Royal Mint;-37.8121838749;144.957055454136
+92;Mixed Use;Retail/Office;DFO South Wharf;-37.8248874012;144.949794297819
+93;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Queen Victoria Gardens;-37.8216381245;144.971049530478
+94;Community Use;Public Buildings;Sidney Myer Music Bowl;-37.8233471609;144.974686151365
+95;Purpose Built;Casino;Crown Entertainment Complex;-37.8235761093;144.957312880653
+96;Health Services;Public Hospital;The Royal Victorian Eye & Ear Hospital;-37.808752283;144.976268275082
+97;Office;Office;SBS (Special Broadcasting Service);-37.817692121;144.968740597156
+98;Place Of Assembly;Art Gallery/Museum;The Ian Potter Centre: NGV Australia;-37.8174831423;144.969899048343
+99;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Federation Square;-37.8178516572;144.968963600783
+100;Place Of Assembly;Art Gallery/Museum;Thoroughbred Racing Gallery;-37.8188662731;144.9839700954
+101;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);New Quay;-37.8152178789;144.941617889032
+102;Purpose Built;Film & RV Studio;Central City Studios;-37.8142318521;144.935655305362
+103;Purpose Built;Film & RV Studio;Channel 7 - Melbourne Broadcast Centre;-37.8158572333;144.94582326909
+104;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Docklands Park;-37.8209956786;144.946781702342
+105;Mixed Use;Retail/Office;Waterfront City;-37.8150566618;144.939136876334
+106;Vacant Land;Current Construction Site;Harbour Town;-37.8139256327;144.938123825625
+107;Leisure/Recreation;Major Sports & Recreation Facility;AAMI Park;-37.8247252674;144.98380297866
+108;Transport;Marina;New Quay Marina;-37.8152925455;144.942283726231
+109;Place Of Assembly;Function/Conference/Exhibition Centre;Central Pier;-37.8165177308;144.943475014215
+110;Leisure/Recreation;Observation Tower/Wheel;Melbourne Star Observation Wheel;-37.8116163667;144.937588920436
+111;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Point Park;-37.8233522701;144.942102276731
+112;Education Centre;Primary Schools;Kensington Primary School;-37.7925235045;144.927108735461
+113;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Newmarket Reserve;-37.7878473341;144.922972125346
+114;Health Services;Public Hospital;Royal Womens Hospital;-37.798889246;144.954897253856
+115;Education Centre;Further Education;Kangan Batman Tafe;-37.8221818203;144.948908460665
+116;Place Of Assembly;Art Gallery/Museum;Fox Classic Car Collection;-37.8213744301;144.948496661709
+117;Specialist Residential Accommodation;Hostel;The Mission To Seafarers Victoria;-37.8224995971;144.951254841448
+118;Vacant Land;Current Construction Site - Commercial;Railway Good Shed No 2;-37.8211371302;144.951378883631
+119;Leisure/Recreation;Outdoor Recreation Facility (Zoo, Golf Course);Wonderland Park;-37.8116945352;144.936833674975
+120;Leisure/Recreation;Major Sports & Recreation Facility;Rod Laver Arena;-37.822045612;144.978487173787
+121;Leisure/Recreation;Major Sports & Recreation Facility;Melbourne Park;-37.820908597;144.978735802793
+122;Leisure/Recreation;Major Sports & Recreation Facility;Margaret Court Arena;-37.8213252087;144.977591098955
+123;Leisure/Recreation;Major Sports & Recreation Facility;Hisense Arena;-37.8231100027;144.981834802535
+124;Place Of Assembly;Art Gallery/Museum;Melbourne Museum;-37.8035518129;144.971690718887
+125;Place Of Assembly;Cinema;IMAX Melbourne;-37.8034315562;144.970639929886
+126;Community Use;Public Buildings;Melbourne Theatre Company;-37.8239303848;144.968297429894
+127;Place Of Assembly;Theatre Live;MTC Theatre;-37.8242661833;144.968174400274
+128;Community Use;Public Buildings;Elisabeth Murdoch Hall;-37.8239733704;144.967450979234
+129;Community Use;Public Buildings;Melbourne Recital Centre;-37.8238327886;144.967682729667
+130;Community Use;Public Buildings;NGV International;-37.8230135001;144.969342535451
+131;Place Of Assembly;Theatre Live;Hamer Hall;-37.8199901009;144.967992144257
+132;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Birrarung Marr;-37.818061084;144.97314667014
+133;Leisure/Recreation;Indoor Recreation Facility;Artplay;-37.81841988;144.971542586509
+134;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Riverslide Skate Park;-37.8207887122;144.972951789291
+135;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Alexandra Gardens;-37.8206051404;144.971796067365
+136;Transport;Railway Station;Parliament Railway Station;-37.8116061787;144.973017263156
+137;Transport;Railway Station;Richmond Railway Station (Richmond) - Train stop;-37.823899266;144.989400751664
+138;Transport;Railway Station;Jolimont-MCG Railway Station (East Melbourne) - Train stop;-37.8165651812;144.983641003377
+139;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);North Melbourne Recreation Reserve;-37.7988345257;144.941452061463
+140;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);J.J Holland Park;-37.7982358832;144.923837074813
+141;Transport;Railway Station;Macaulay Railway Station (North Melbourne) - Train stop;-37.7949640014;144.936190756632
+142;Transport;Railway Station;Kensington Railway Station;-37.7939140126;144.930710207518
+143;Transport;Railway Station;South Kensington Railway Station;-37.7997270538;144.925837749713
+144;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Royal Park;-37.7906174257;144.953834240647
+145;Health Services;Public Hospital;Royal Childrens Hospital;-37.7942060847;144.950048264678
+146;Transport;Railway Station;Royal Park Railway Station;-37.7812684283;144.951667833921
+147;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Princes Park;-37.7870161727;144.961115214367
+148;Place Of Assembly;Art Gallery/Museum;National Sports Museum;-37.8189544909;144.984669809381
+149;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Shrine of Rembrance Reserve;-37.8320733993;144.973628364465
+150;Community Use;Public Buildings;Shrine of Remembrance;-37.830208002;144.973441913623
+151;Residential Accommodation;Dwelling (House);Government House;-37.8275635886;144.976655130464
+152;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Royal Botanic Gardens;-37.8306631583;144.980850432751
+153;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Yarra Park;-37.8204693741;144.986671109615
+154;Office;Office;Coronial Services Centre of Victoria;-37.8243437355;144.96447462898
+155;Office;Office;Victorian Insitute of Forensic Medicine;-37.8246924089;144.964979061564
+156;Office;Office;Donor Tissue Bank of Victoria;-37.824823186;144.965169035668
+157;Office;Office;State Coroners Office;-37.8244982229;144.964675254819
+158;Leisure/Recreation;Indoor Recreation Facility;Icehouse;-37.8121881194;144.935684018873
+159;Transport;Railway Station;Parliament Railway Station;-37.8121572789;144.973742010011
+160;Transport;Railway Station;Parliament Railway Station;-37.8127621114;144.973433796529
+161;Transport;Railway Station;Parliament Railway Station;-37.8095762219;144.972330132127
+162;Transport;Railway Station;Flagstaff Railway Station;-37.8116384404;144.9561186805
+163;Transport;Railway Station;Melbourne Central Railway Station;-37.8097759326;144.962670059539
+164;Transport;Railway Station;Melbourne Central Railway Station;-37.8105992402;144.96169061383
+165;Transport;Railway Station;Melbourne Central Railway Station;-37.8108930047;144.963100728702
+166;Transport;Railway Station;Flemington Racecourse Railway Station;-37.7869105823;144.908190706069
+167;Transport;Railway Station;Showgrounds Railway Station (Flemington);-37.7834651216;144.914902626775
+168;Transport;Railway Station;Newmarket Railway Station;-37.7872726242;144.929059958114
+169;Place Of Assembly;Theatre Live;Athanaeum Theatre;-37.8149543478;144.96732254212
+170;Health Services;Public Hospital;Alfred Hospital;-37.8462631206;144.981786260765
+171;Leisure/Recreation;Outdoor Recreation Facility (Zoo, Golf Course);Riverside Park;-37.7948375316;144.915607065132
+172;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Darling Square;-37.8129920693;144.989062559512
+173;Place Of Assembly;Theatre Live;Carlton Courthouse Theatre;-37.7976589943;144.968750113566
+174;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Flagstaff Gardens;-37.8111222889;144.954696055235
+175;Leisure/Recreation;Outdoor Recreation Facility (Zoo, Golf Course);Melbourne Showgrounds;-37.7823097851;144.910822117306
+176;Education Centre;Primary Schools;North Melbourne Primary School;-37.7986737156;144.951065772876
+177;Place Of Assembly;Theatre Live;Her Majesty's Theatre;-37.8109975613;144.969520183129
+178;Place Of Assembly;Theatre Live;Comedy Theatre;-37.8102053945;144.97013311862
+179;Place Of Assembly;Theatre Live;La Mama Theatre;-37.7991304957;144.967669503083
+180;Industrial;Industrial (Manufacturing);Kraft;-37.8262313086;144.923475698195
+181;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Fawkner Park;-37.8413996708;144.981625667877
+182;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Fitzroy Gardens;-37.8129616332;144.980455714669
+183;Place Of Assembly;Art Gallery/Museum;Sinclair's Cottage;-37.8145407488;144.980554992725
+184;Education Centre;Tertiary (University);BIO 21 Institute;-37.7978743305;144.953780325865
+185;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Enterprize Park;-37.8202102696;144.959276859602
+186;Place Of Assembly;Art Gallery/Museum;Victoria Police Museum;-37.8222182774;144.954039975197
+187;Place Of Assembly;Art Gallery/Museum;Immigration Museum;-37.8191798798;144.960426777129
+188;Place of Worship;Church;St Pauls Cathedral;-37.8169549012;144.967681647402
+189;Place Of Assembly;Theatre Live;Forum Theatre;-37.8164854097;144.969386556998
+190;Transport;Railway Station;Flinders Street Railway Station;-37.8179063008;144.967064817875
+191;Warehouse/Store;Store Yard;Melbourne Wholesale Fish Market;-37.8083471006;144.930613255612
+192;Mixed Use;Retail/Office/Carpark;Melbourne Wholesale Fruit, Vegetable & Flower Market;-37.8068725216;144.923287444259
+193;Place Of Assembly;Art Gallery/Museum;Fire Services Museum Victoria;-37.8085761282;144.975373745366
+194;Community Use;Fire Station;Metropolitan Fire Brigade (MFB);-37.8092318637;144.975247619376
+195;Health Services;Public Hospital;Royal Melbourne Hospital;-37.7993071664;144.956389746765
+196;Place Of Assembly;Art Gallery/Museum;The Ian Potter Museum Of Art;-37.7973939596;144.964156669702
+197;Education Centre;Tertiary (University);University of Melbourne;-37.7982892285;144.96099520158
+198;Place Of Assembly;Art Gallery/Museum;Koorie Heritage Trust Inc;-37.8133854259;144.954027907736
+199;Community Use;Public Buildings;Commonwealth Law Courts;-37.8123961678;144.955823833257
+200;Education Centre;Tertiary (University);RMIT University;-37.8080795361;144.964452974798
+201;Mixed Use;Retail/Office/Carpark;Melbourne Central;-37.8105371797;144.962749729496
+202;Transport;Railway Station;Melbourne Central Railway Station;-37.8100167031;144.963789344893
+203;Mixed Use;Retail/Office/Residential/Carpark;QV Village;-37.8106891897;144.965714574014
+204;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Argyle Square;-37.8031480577;144.965761295089
+205;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Piazza Italia;-37.8025164193;144.965863092947
+206;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Macarthur Square;-37.7983318677;144.971514146104
+207;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Murchinson Square;-37.8002735025;144.973059252203
+208;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Parliament Reserve;-37.8098526206;144.973462202839
+209;Leisure/Recreation;Major Sports & Recreation Facility;North Melbourne Recreation Centre (Aquatic);-37.799947005;144.943290801869
+210;Office;Office;North Melbourne Football Club;-37.7997713641;144.940963510723
+211;Leisure/Recreation;Gymnasium/Health Club;North Melbourne Recreation Centre (Gymnasium);-37.7997051198;144.940368286395
+212;Leisure/Recreation;Indoor Recreation Facility;Carlton Baths;-37.7934377043;144.971696548624
+213;Leisure/Recreation;Major Sports & Recreation Facility;City Baths;-37.8071585351;144.963189789721
+214;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Westgate Park;-37.8314918579;144.908824792698
+215;Transport;Railway Station;North Melbourne Railway Station;-37.8073823625;144.942429848025
+216;Place Of Assembly;Art Gallery/Museum;Cooks' Cottage;-37.81446049;144.979471339826
+217;Community Use;Public Buildings;Conservatory;-37.8140021272;144.9785597431
+218;Purpose Built;Aquarium;Melbourne Aquarium;-37.8209627825;144.958425696055
+219;Leisure/Recreation;Major Sports & Recreation Facility;Westpac Centre;-37.8242456859;144.979720306309
+220;Place Of Assembly;Art Gallery/Museum;Royal Exhibition Building;-37.8046026243;144.971521914952
+221;Community Use;Public Buildings;Melbourne Childrens Court;-37.8125077647;144.958298873269
+222;Leisure/Recreation;Major Sports & Recreation Facility;Etihad Stadium;-37.8161760472;144.947496254547
+223;Leisure/Recreation;Observation Tower/Wheel;Eureka Skydeck 88;-37.8216187583;144.964622218598
+224;Mixed Use;Retail/Residential;Eureka Tower;-37.821515754;144.964456721965
+225;Community Use;Public Buildings;County Court Melbourne;-37.813201162;144.957734246387
+226;Health Services;Public Hospital;Peter Maccallum Cancer Institute;-37.8114766732;144.977400949063
+227;Health Services;Public Hospital;Royal Dental Hospital;-37.7995065904;144.964526842767
+228;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Sandridge Rail Bridge;-37.8201763043;144.96298113724
+229;Mixed Use;Retail/Office/Residential/Carpark;Freshwater Place;-37.8219745489;144.96246144843
+230;Community Use;Visitor Centre;Melbourne Visitor Centre;-37.8177352402;144.967937138226
+231;Place Of Assembly;Art Gallery/Museum;Australian Centre For The Moving Image (ACMI);-37.8176107327;144.969070431323
+232;Transport;Bridge;Webb Bridge;-37.8232052385;144.947291011905
+233;Place Of Assembly;Function/Conference/Exhibition Centre;Dallas Brooks Centre;-37.8097374138;144.981383411592
+234;Education Centre;School - Primary and Secondary Education;Melbourne Girls Grammar School;-37.8315364519;144.985089428348
+235;Retail;Department Store;Myer;-37.8135911985;144.963855087868
+236;Retail;Department Store;David Jones;-37.8133127261;144.964373486798
+237;Leisure/Recreation;Informal Outdoor Facility (Park/Garden/Reserve);Lincoln Square;-37.802791969;144.962760852233
+238;Health Services;Private Hospital;Epworth Freemasons Hospital;-37.8109710654;144.98370007659
+239;Residential Accommodation;Dwelling (House);Bishopscourt;-37.8132921649;144.98350690799
+240;Health Services;Medical Services;Mercy Private Hospital;-37.8118968098;144.984435746587
+241;Place Of Assembly;Art Gallery/Museum;The Museum Of Australian Chinese History;-37.8107686128;144.96923385414
+242;Mixed Use;Retail/Office/Carpark;ANZ 'Gothic' Bank;-37.8161580666;144.961673719242
